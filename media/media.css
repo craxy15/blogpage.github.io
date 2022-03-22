@@ -1,0 +1,40 @@
+@media (max-width:599px){
+    .container2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+
+@media  (min-width:600px) {
+    *{
+        font-size: 20px;
+    }
+    footer section ul li a{
+        font-size: 20px;
+    }
+    .container2{
+        display:flex
+}
+    .container3{
+        max-width: auto;
+        margin: 0 auto;
+    }
+    .as span{
+        margin: 0 20px;
+    }
+ 
+    .as{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 250px; 
+    padding-top: 12px;
+    margin: auto 0;
+   }
+
+
+
+}

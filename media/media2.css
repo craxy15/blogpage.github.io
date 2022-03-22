@@ -1,0 +1,50 @@
+@media (min-width:492px){
+    *{
+        font-size: 20px;
+    }
+    footer  section ul li a{
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width:700px){
+    .caja1{
+        margin: 50px 10px;
+    }
+    .caja1 p{
+        margin-top: 30px;
+        max-width: 800px;
+    }
+    .caja2 .text1{
+        margin: 0 auto;
+        max-width: 600px;
+    }
+}
+
+@media (min-width:1200px){
+    .caja2 article img{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    margin-bottom: 50px;
+    margin-right: 230px;
+    }
+
+    .caja1 p{
+        margin: 0 auto;
+    }
+    .caja1 h1 {
+        font-size: 40px;
+        margin-bottom: 70px;
+    }
+    .caja2 .text1{
+        max-width: 900px;
+        margin: auto 0;
+        margin-left: 300px;
+    }
+    .caja2 .text2{
+        max-width: 1350px;
+        margin: 0 auto;
+    }
+}

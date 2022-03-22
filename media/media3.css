@@ -1,0 +1,8 @@
+@media (min-width:492px){
+    *{
+        font-size: 20px;
+    }
+    body footer  section ul li .submenu{
+        font-size: 20px;
+    }
+}
